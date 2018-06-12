@@ -1,0 +1,1 @@
+# Prediction-Of-Burnt-area-in-Forest-Fire-Dataset
